@@ -1,9 +1,9 @@
 body{
   width: 100%;
   height: auto;
-  background-image: url(images/bg.jpg);
-  background-position: cover;
-  /* background: -webkit-linear-gradient(0deg, #3c96ff 0%, #2dfbff 100%); */
+  /* background-image: url(images/bg.jpg); */
+  /* background-position: cover; */
+  background: -webkit-linear-gradient(0deg, white 0%, #b7b7b7 100%);
   font-family: "Robato",sans-serif;
   font-size: 17px;
 }
